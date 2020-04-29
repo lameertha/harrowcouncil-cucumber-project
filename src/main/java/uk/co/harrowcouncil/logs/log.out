@@ -1,0 +1,44 @@
+2020-04-29 18:04:250 INFO  BrowserSelector :20 - Launching Chrome Browser
+2020-04-29 18:04:400 INFO  HomePage :26 - clicking on login and register link : Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Council Tax')]'
+2020-04-29 18:04:441 INFO  LoginPage :33 - getting text from : [[ChromeDriver: chrome on WINDOWS (baa3a11d0beca4ad398ad94c911f6027)] -> xpath: //h2[contains(text(),'Log in')]]
+2020-04-29 18:04:283 INFO  BrowserSelector :20 - Launching Chrome Browser
+2020-04-29 18:04:442 INFO  HomePage :26 - clicking on login and register link : Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Council Tax')]'
+2020-04-29 18:04:653 INFO  LoginPage :41 - Entering email : lamee2@gmail.comto email field: [[ChromeDriver: chrome on WINDOWS (6809f6983c3b9b2c44dbedfce0c8d07d)] -> xpath: //input[@name='username']]
+2020-04-29 18:04:826 INFO  LoginPage :47 - Entering password : lamee1988to password field: [[ChromeDriver: chrome on WINDOWS (6809f6983c3b9b2c44dbedfce0c8d07d)] -> xpath: //input[@name='password']]
+2020-04-29 18:04:750 INFO  LoginPage :53 - clicking on login button : [[ChromeDriver: chrome on WINDOWS (6809f6983c3b9b2c44dbedfce0c8d07d)] -> xpath: //input[@name='_login']]
+2020-04-29 18:04:779 INFO  LoginPage :58 - getting text from : [[ChromeDriver: chrome on WINDOWS (6809f6983c3b9b2c44dbedfce0c8d07d)] -> xpath: //span[contains(text(),'Invalid Username')]]
+2020-04-29 18:04:632 INFO  BrowserSelector :20 - Launching Chrome Browser
+2020-04-29 18:04:423 INFO  HomePage :26 - clicking on login and register link : Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Council Tax')]'
+2020-04-29 18:04:459 INFO  LoginPage :33 - getting text from : [[ChromeDriver: chrome on WINDOWS (87912a99500eb845bbdd12857ef42957)] -> xpath: //h2[contains(text(),'Log in')]]
+2020-04-29 18:04:436 INFO  BrowserSelector :20 - Launching Chrome Browser
+2020-04-29 18:04:66 INFO  HomePage :26 - clicking on login and register link : Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Council Tax')]'
+2020-04-29 18:04:249 INFO  LoginPage :41 - Entering email : lamee2@gmail.comto email field: [[ChromeDriver: chrome on WINDOWS (80cbfedd5fb0d2550c10b5ed8e7e316c)] -> xpath: //input[@name='username']]
+2020-04-29 18:04:395 INFO  LoginPage :47 - Entering password : lamee1988to password field: [[ChromeDriver: chrome on WINDOWS (80cbfedd5fb0d2550c10b5ed8e7e316c)] -> xpath: //input[@name='password']]
+2020-04-29 18:04:903 INFO  LoginPage :53 - clicking on login button : [[ChromeDriver: chrome on WINDOWS (80cbfedd5fb0d2550c10b5ed8e7e316c)] -> xpath: //input[@name='_login']]
+2020-04-29 18:04:951 INFO  LoginPage :58 - getting text from : [[ChromeDriver: chrome on WINDOWS (80cbfedd5fb0d2550c10b5ed8e7e316c)] -> xpath: //span[contains(text(),'Invalid Username')]]
+2020-04-29 18:04:02 INFO  BrowserSelector :20 - Launching Chrome Browser
+2020-04-29 18:04:253 INFO  HomePage :26 - clicking on login and register link : Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Council Tax')]'
+2020-04-29 18:04:873 INFO  BrowserSelector :20 - Launching Chrome Browser
+2020-04-29 18:04:961 INFO  HomePage :26 - clicking on login and register link : Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Council Tax')]'
+2020-04-29 18:04:156 INFO  LoginPage :41 - Entering email : lamee2@gmail.comto email field: [[ChromeDriver: chrome on WINDOWS (16798bc49b5df43aef2ae2fe02a59ad9)] -> xpath: //input[@name='username']]
+2020-04-29 18:04:286 INFO  LoginPage :47 - Entering password : lamee1988to password field: [[ChromeDriver: chrome on WINDOWS (16798bc49b5df43aef2ae2fe02a59ad9)] -> xpath: //input[@name='password']]
+2020-04-29 18:04:579 INFO  LoginPage :53 - clicking on login button : [[ChromeDriver: chrome on WINDOWS (16798bc49b5df43aef2ae2fe02a59ad9)] -> xpath: //input[@name='_login']]
+2020-04-29 18:04:615 INFO  LoginPage :58 - getting text from : [[ChromeDriver: chrome on WINDOWS (16798bc49b5df43aef2ae2fe02a59ad9)] -> xpath: //span[@id='password.errors']]
+2020-04-29 18:04:174 INFO  BrowserSelector :20 - Launching Chrome Browser
+2020-04-29 18:04:612 INFO  HomePage :26 - clicking on login and register link : Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Council Tax')]'
+2020-04-29 18:04:650 INFO  LoginPage :33 - getting text from : [[ChromeDriver: chrome on WINDOWS (b0900cd722efa54fe284fbb14cabc347)] -> xpath: //a[contains(text(),'Log In')]]
+2020-04-29 18:04:971 INFO  BrowserSelector :20 - Launching Chrome Browser
+2020-04-29 18:04:391 INFO  HomePage :26 - clicking on login and register link : Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Council Tax')]'
+2020-04-29 18:04:667 INFO  LoginPage :41 - Entering email : lamee2@gmail.comto email field: [[ChromeDriver: chrome on WINDOWS (2b27d3bc3116282b6935d374941be6e6)] -> xpath: //input[@id='username-input']]
+2020-04-29 18:04:928 INFO  LoginPage :47 - Entering password : lamee1988to password field: [[ChromeDriver: chrome on WINDOWS (2b27d3bc3116282b6935d374941be6e6)] -> xpath: //input[@id='password-input']]
+2020-04-29 18:04:867 INFO  LoginPage :53 - clicking on login button : [[ChromeDriver: chrome on WINDOWS (2b27d3bc3116282b6935d374941be6e6)] -> xpath: //input[@id='submitBtnSignIn']]
+2020-04-29 18:04:913 INFO  LoginPage :58 - getting text from : [[ChromeDriver: chrome on WINDOWS (2b27d3bc3116282b6935d374941be6e6)] -> xpath: //span[@id='password.errors']]
+2020-04-29 18:04:41 INFO  BrowserSelector :20 - Launching Chrome Browser
+2020-04-29 18:04:659 INFO  HomePage :26 - clicking on login and register link : Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Council Tax')]'
+2020-04-29 18:04:692 INFO  LoginPage :33 - getting text from : [[ChromeDriver: chrome on WINDOWS (8f1a03422dea2c74f785b86e2a8f5772)] -> xpath: //a[contains(text(),'Log In')]]
+2020-04-29 18:04:476 INFO  BrowserSelector :20 - Launching Chrome Browser
+2020-04-29 18:04:789 INFO  HomePage :26 - clicking on login and register link : Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Council Tax')]'
+2020-04-29 18:04:992 INFO  LoginPage :41 - Entering email : lamee2@gmail.comto email field: [[ChromeDriver: chrome on WINDOWS (bfdcbb9d170bbe37eab9afcddc5343f7)] -> xpath: //input[@id='username-input']]
+2020-04-29 18:04:123 INFO  LoginPage :47 - Entering password : lamee1988to password field: [[ChromeDriver: chrome on WINDOWS (bfdcbb9d170bbe37eab9afcddc5343f7)] -> xpath: //input[@id='password-input']]
+2020-04-29 18:04:962 INFO  LoginPage :53 - clicking on login button : [[ChromeDriver: chrome on WINDOWS (bfdcbb9d170bbe37eab9afcddc5343f7)] -> xpath: //input[@id='submitBtnSignIn']]
+2020-04-29 18:04:999 INFO  LoginPage :58 - getting text from : [[ChromeDriver: chrome on WINDOWS (bfdcbb9d170bbe37eab9afcddc5343f7)] -> xpath: //span[@id='password.errors']]

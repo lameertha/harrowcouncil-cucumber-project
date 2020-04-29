@@ -1,0 +1,187 @@
+[
+  {
+    "line": 3,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 13773325700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 6,
+        "name": "User should navigate to login page successfully",
+        "description": "",
+        "id": "login-feature;user-should-navigate-to-login-page-successfully",
+        "after": [
+          {
+            "result": {
+              "duration": 734681800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 138992600,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I am on home page",
+            "match": {
+              "location": "LoginStepdefs.iAmOnHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 31639033400,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I click on login and register link",
+            "match": {
+              "location": "LoginStepdefs.iClickOnLoginAndRegisterLink()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 61018700,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I should navigate to login and register page",
+            "match": {
+              "location": "LoginStepdefs.iShouldNavigateToLoginAndRegisterPage()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 12420849700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 11,
+        "name": "User should not login with invalid credentials",
+        "description": "",
+        "id": "login-feature;user-should-not-login-with-invalid-credentials",
+        "after": [
+          {
+            "result": {
+              "duration": 880548700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 32800,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I am on home page",
+            "match": {
+              "location": "LoginStepdefs.iAmOnHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 31893760800,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I click on login and register link",
+            "match": {
+              "location": "LoginStepdefs.iClickOnLoginAndRegisterLink()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 325870000,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I enter the below credentials",
+            "match": {
+              "location": "LoginStepdefs.iEnterTheBelowCredentials(DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "lamee2@gmail.com",
+                  "lamee1988"
+                ],
+                "line": 15
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 837492700,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "I click on login button",
+            "match": {
+              "location": "LoginStepdefs.iClickOnLoginButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 68596600,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "I should see the error message",
+            "match": {
+              "location": "LoginStepdefs.iShouldSeeTheErrorMessage()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Login feature",
+    "description": "As a user I want to login into harrow council website",
+    "id": "login-feature",
+    "keyword": "Feature",
+    "uri": "src/test/java/uk/co/harrowcouncil/resources/featurefile/login.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@login"
+      }
+    ]
+  }
+]
